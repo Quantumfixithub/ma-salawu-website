@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" width="800" height="450" role="img" aria-label="Intellectual Property illustration">
+  <defs>
+    <linearGradient id="cg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="rgb(61,47,30)"/>
+      <stop offset="1" stop-color="#06271F"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#cg)"/>
+  <g transform="translate(400,205) scale(6)" stroke="#D4AF37" stroke-width="0.9" fill="none" opacity="0.9" stroke-linecap="round" stroke-linejoin="round">
+    <g transform="translate(-12,-12)"><circle cx="11" cy="11" r="7"/><path d="M11 8v3l2 2M16.3 16.3L21 21"/></g>
+  </g>
+  <text x="400" y="330" font-family="Inter, sans-serif" font-size="15" font-weight="600" letter-spacing="2" fill="#E8D48A" opacity="0.85" text-anchor="middle">INTELLECTUAL PROPERTY</text>
+</svg>

@@ -1,0 +1,569 @@
+{
+  "site": {
+    "name": "M.A SALAWU",
+    "nameSuffix": " & CO",
+    "tagline": "Barristers & Solicitors",
+    "phoneDisplay": "+234 802 733 0095",
+    "phoneHref": "tel:+2348027330095",
+    "email": "masalawu11@gmail.com",
+    "whatsappHref": "https://wa.me/2349029607089",
+    "whatsappLabel": "Message us on WhatsApp",
+    "addressLine1": "Suit 1, Ground Floor, Hotel De James Complex,",
+    "addressLine2": "Opp. 1st Bank Plc, Joseph Dosu Way,",
+    "addressLine3": "Badagry, Lagos State, Nigeria",
+    "hours": "Monday – Friday, 9:00 AM – 5:00 PM",
+    "footerDescription": "Legal counsel for individuals, corporate organisations, and businesses in Nigeria, built on integrity, professionalism, and close attention to each client's matter.",
+    "copyrightYear": "2026",
+    "emailHref": "mailto:masalawu11@gmail.com",
+    "addressOneLine": "Suit 1, Ground Floor, Hotel De James Complex, Badagry, Lagos State, Nigeria"
+  },
+  "hero": {
+    "eyebrow": "M.A Salawu & Co — Badagry, Lagos",
+    "titleLines": [
+      "Strategic legal",
+      "counsel, built",
+      "on experience",
+      "and driven by",
+      "integrity"
+    ],
+    "lede": "We advise individuals, corporate organisations, and businesses across Nigeria, combining careful attention to detail with a clear understanding of how commercial decisions actually get made.",
+    "primaryCta": "Speak With Our Team",
+    "secondaryCta": "Explore Our Practice Areas"
+  },
+  "about": {
+    "eyebrow": "The Firm",
+    "title": "Legal counsel rooted in Nigerian law and everyday commercial reality",
+    "lead": "M.A Salawu & Co was founded by M. A. Salawu, Esq. with a clear aim: legal representation that is thorough, direct, and genuinely useful to the client, not just technically correct.",
+    "body": "We are based in Badagry, Lagos, and act for clients across Nigeria.",
+    "caption": "Badagry, Lagos State",
+    "linkLabel": "Discover the firm"
+  },
+  "values": [
+    {
+      "num": "01",
+      "icon": "shield",
+      "title": "Integrity first",
+      "body": "We tell clients what the law actually allows, not what is easiest to hear."
+    },
+    {
+      "num": "02",
+      "icon": "compass",
+      "title": "Commercial awareness",
+      "body": "Advice weighed against the client’s actual business or personal objective."
+    },
+    {
+      "num": "03",
+      "icon": "handshake",
+      "title": "Direct access",
+      "body": "Clients deal with the attorney handling their matter, not a rotating point of contact."
+    },
+    {
+      "num": "04",
+      "icon": "pin",
+      "title": "Local grounding",
+      "body": "Based in Badagry, Lagos, with working knowledge of local process and procedure."
+    }
+  ],
+  "practiceAreas": [
+    {
+      "slug": "corporate-law",
+      "num": "01",
+      "icon": "building",
+      "title": "Corporate Law",
+      "shortDesc": "Incorporation, governance, compliance, and transactional support for businesses at every stage.",
+      "points": [
+        "Company incorporation and business registration with the Corporate Affairs Commission",
+        "Corporate governance advisory, board resolutions, and statutory compliance",
+        "Drafting and negotiating shareholder and partnership agreements"
+      ]
+    },
+    {
+      "slug": "commercial-litigation",
+      "num": "02",
+      "icon": "scales",
+      "title": "Commercial Litigation",
+      "shortDesc": "Representation in commercial disputes, arbitration, and alternative dispute resolution.",
+      "points": [
+        "Representation before Nigerian courts in commercial disputes",
+        "Arbitration and alternative dispute resolution",
+        "Debt recovery and contractual dispute resolution"
+      ]
+    },
+    {
+      "slug": "real-estate",
+      "num": "03",
+      "icon": "house",
+      "title": "Real Estate",
+      "shortDesc": "Property transactions, title verification, and landlord-tenant advisory.",
+      "points": [
+        "Title investigation and due diligence before purchase",
+        "Sale, lease, and mortgage documentation",
+        "Landlord and tenant advisory, including recovery of premises"
+      ]
+    },
+    {
+      "slug": "intellectual-property",
+      "num": "04",
+      "icon": "search",
+      "title": "Intellectual Property",
+      "shortDesc": "Protection and enforcement of trademarks, patents, copyrights, and trade secrets.",
+      "points": [
+        "Trademark search, registration, and renewal",
+        "Copyright and trade secret advisory",
+        "Enforcement against infringement"
+      ]
+    },
+    {
+      "slug": "family-law",
+      "num": "05",
+      "icon": "people",
+      "title": "Family Law",
+      "shortDesc": "Guidance on divorce, child custody, adoption, and estate planning.",
+      "points": [
+        "Divorce and separation proceedings",
+        "Child custody and guardianship matters",
+        "Adoption and estate/succession planning"
+      ]
+    },
+    {
+      "slug": "contract-law",
+      "num": "06",
+      "icon": "document",
+      "title": "Contract Law",
+      "shortDesc": "Drafting, review, and negotiation of commercial and employment contracts.",
+      "points": [
+        "Drafting and reviewing commercial agreements",
+        "Employment contracts and workplace policies",
+        "Contract negotiation on the client's behalf"
+      ]
+    },
+    {
+      "slug": "tax-law",
+      "num": "07",
+      "icon": "info",
+      "title": "Tax Law",
+      "shortDesc": "Tax compliance and advisory support for individuals and businesses.",
+      "points": [
+        "Personal and corporate tax compliance advisory",
+        "Tax planning for transactions",
+        "Liaison with tax authorities on behalf of clients"
+      ]
+    }
+  ],
+  "founder": {
+    "name": "M. A. Salawu, Esq.",
+    "role": "Founder & Principal Partner",
+    "bio": "Founder of M.A Salawu & Co, leading a practice built on thorough, direct and genuinely useful legal representation.",
+    "areas": "Corporate Law, Commercial Litigation",
+    "monogram": "MS",
+    "sample": false,
+    "filterSlugs": [
+      "corporate-law",
+      "commercial-litigation"
+    ],
+    "photo": ""
+  },
+  "attorneys": [
+    {
+      "name": "Adaeze N. Chukwu",
+      "role": "Senior Associate",
+      "bio": "Advises corporate and individual clients on commercial disputes and property transactions, with a focus on practical, timely resolution.",
+      "credentials": "LLB (Hons), B.L.",
+      "areas": "Commercial Litigation, Real Estate",
+      "monogram": "AC",
+      "sample": true,
+      "filterSlugs": [
+        "commercial-litigation",
+        "real-estate"
+      ],
+      "photo": ""
+    },
+    {
+      "name": "Tunde B. Fashina",
+      "role": "Associate",
+      "bio": "Supports business clients through incorporation, governance, and day-to-day contractual matters.",
+      "credentials": "LLB (Hons), B.L.",
+      "areas": "Corporate Law, Tax Law",
+      "monogram": "TF",
+      "sample": true,
+      "filterSlugs": [
+        "corporate-law",
+        "tax-law"
+      ],
+      "photo": ""
+    },
+    {
+      "name": "Ngozi P. Eze",
+      "role": "Associate",
+      "bio": "Handles family law matters and intellectual property filings, working closely with individual and small-business clients.",
+      "credentials": "LLB (Hons), B.L.",
+      "areas": "Family Law, Intellectual Property, Contract Law",
+      "monogram": "NE",
+      "sample": true,
+      "filterSlugs": [
+        "family-law",
+        "intellectual-property",
+        "contract-law"
+      ],
+      "photo": ""
+    }
+  ],
+  "whatToExpect": [
+    {
+      "num": "01",
+      "text": "Direct communication with the attorney handling your matter"
+    },
+    {
+      "num": "02",
+      "text": "Advice grounded in current Nigerian law and procedure"
+    },
+    {
+      "num": "03",
+      "text": "Transparent guidance on cost and likely timelines"
+    }
+  ],
+  "cta": {
+    "eyebrow": "Get In Touch",
+    "title": "Speak with our team about your matter",
+    "lede": "Reach out for a consultation and we’ll direct you to the right attorney for your matter."
+  },
+  "meta": {
+    "contentVersion": 1,
+    "note": "Fields marked sample:true are demo content generated during the redesign and should be reviewed/replaced by the firm before launch."
+  },
+  "consultation": {
+    "eyebrow": "Get In Touch",
+    "title": "Book a consultation",
+    "lede": "Tell us briefly about your matter and how to reach you. We typically respond within one business day.",
+    "practiceAreaOptions": [
+      "Corporate Law",
+      "Commercial Litigation",
+      "Real Estate",
+      "Intellectual Property",
+      "Family Law",
+      "Contract Law",
+      "Tax Law"
+    ],
+    "formIntro": "Fill in the details below, then send the request to us on WhatsApp or by email — whichever you prefer.",
+    "chat": {
+      "eyebrow": "Talk To Us Now",
+      "title": "Start a conversation",
+      "body": "The fastest way to reach us directly is WhatsApp. For anything written, email works too.",
+      "note": "This connects you to our team directly — not an automated bot."
+    },
+    "payment": {
+      "eyebrow": "Consultation Fee",
+      "title": "Pay for your consultation",
+      "body": "Once we've received your request above, you can pay your consultation fee here. This step unlocks after you send your request.",
+      "enabled": false,
+      "provider": "paystack",
+      "publicKey": "",
+      "currency": "NGN",
+      "unavailableNote": "Online payment isn't switched on yet. Contact us and we'll arrange payment directly.",
+      "confirmNote": "After paying, please also send us your payment reference on WhatsApp so we can match it to your booking right away.",
+      "tiers": [
+        {
+          "label": "Consultation Fee",
+          "amount": 20000,
+          "description": "Standard fee for a consultation with our team.",
+          "sample": false
+        }
+      ],
+      "lockedNote": "Send your consultation request above first — payment unlocks once it's ready to send."
+    }
+  },
+  "insights": [
+    {
+      "slug": "insights-corporate-compliance-checklist",
+      "title": "A practical compliance checklist for Nigerian SMEs",
+      "category": "Corporate Law",
+      "date": "2026-01-14",
+      "dateDisplay": "14 January 2026",
+      "excerpt": "What growing businesses tend to overlook when it comes to statutory filings and governance.",
+      "coverIcon": "building",
+      "sample": true,
+      "body": [
+        {
+          "type": "p",
+          "text": "Many small and mid-sized businesses treat compliance as something to deal with once a problem arises, rather than a routine part of running the company. That approach is understandable — filings rarely feel urgent until they suddenly are — but it is consistently the more costly path."
+        },
+        {
+          "type": "h3",
+          "text": "Where the gaps usually appear"
+        },
+        {
+          "type": "p",
+          "text": "The most common issues we see are missed annual returns, board resolutions that were never properly documented, and share registers that fall out of date after an informal transfer of shares. None of these are complicated to fix individually, but left unattended for a few years they compound into a much larger cleanup exercise, often surfacing at the worst possible time: during due diligence for a sale, a funding round, or a dispute."
+        },
+        {
+          "type": "p",
+          "text": "A second, quieter gap is internal: many companies operate for years without updating their register of members or minutes of meetings to reflect what has actually happened — new directors appointed informally, shareholders who have exited without documentation, or resolutions passed verbally but never minuted. On paper, the company can look like it is being run quite differently from how it is in practice."
+        },
+        {
+          "type": "h3",
+          "text": "A simple annual rhythm"
+        },
+        {
+          "type": "p",
+          "text": "We generally recommend a short annual review covering three things: statutory filings with the Corporate Affairs Commission, board and shareholder documentation for the year's key decisions, and any changes in ownership or directorship that need to be formally recorded. Done consistently, this review takes a fraction of the time — and cost — of a retrospective cleanup."
+        },
+        {
+          "type": "p",
+          "text": "For businesses that are scaling, raising capital, or preparing for a transaction, we would add a fourth step: a light due-diligence self-check, looking at the company's filings and records the way a prospective investor or buyer's lawyer would. Catching a gap yourself, on your own timeline, is a very different experience from having it flagged by someone on the other side of a negotiation."
+        },
+        {
+          "type": "h3",
+          "text": "Where to start"
+        },
+        {
+          "type": "p",
+          "text": "If it has been more than a year since your last full review, the most useful first step is usually a straightforward audit of your CAC filing history against your internal records, followed by bringing your statutory registers up to date. From there, an annual compliance calendar keeps the obligation from piling up again."
+        }
+      ]
+    },
+    {
+      "slug": "insights-title-due-diligence-lagos",
+      "title": "Why title due diligence matters before you pay for land in Lagos",
+      "category": "Real Estate",
+      "date": "2025-11-02",
+      "dateDisplay": "2 November 2025",
+      "excerpt": "The practical steps we take before a client commits funds to a property transaction.",
+      "coverIcon": "house",
+      "sample": true,
+      "body": [
+        {
+          "type": "p",
+          "text": "Land disputes in Lagos rarely start with a dramatic fraud. More often, they start with a buyer who trusted a seller's paperwork at face value, or who moved quickly to secure a good price without confirming who actually had the right to sell."
+        },
+        {
+          "type": "h3",
+          "text": "What due diligence actually covers"
+        },
+        {
+          "type": "p",
+          "text": "A proper title investigation looks at several things together, not just one document. That includes verifying the root of title and tracing it back through previous transactions, confirming the seller's identity matches the registered owner, checking for existing encumbrances, and, where relevant, confirming the land is not subject to a government acquisition or committed to a family or community claim that has not been resolved."
+        },
+        {
+          "type": "p",
+          "text": "A search at the Lands Registry is a central part of this, but it is a starting point rather than the whole exercise — registry records can lag behind reality, and physical inspection of the property, along with enquiries in the immediate community, often surface information a registry search alone would not."
+        },
+        {
+          "type": "h3",
+          "text": "Common issues we encounter"
+        },
+        {
+          "type": "p",
+          "text": "The issues that come up most often are: a seller with an incomplete chain of title, family land being sold by one family member without the consent of others with an interest in it, and property that falls within a government acquisition that was never formally released. Any of these can leave a buyer with a document that looks valid but confers little real protection."
+        },
+        {
+          "type": "h3",
+          "text": "How we approach it"
+        },
+        {
+          "type": "p",
+          "text": "Before a client commits funds, we carry out a structured search and verification process, review all the seller's documentation against the registry and, where appropriate, physically inspect the property and make local enquiries. Where an issue is found, the goal is to surface it before money changes hands — at that stage, most problems are still negotiable. Once payment has been made, the buyer's options narrow considerably."
+        }
+      ]
+    },
+    {
+      "slug": "insights-contract-review-checklist",
+      "title": "Five clauses worth a second look before you sign",
+      "category": "Contract Law",
+      "date": "2025-09-18",
+      "dateDisplay": "18 September 2025",
+      "excerpt": "Termination, indemnity, and liability clauses are where most contract disputes originate.",
+      "coverIcon": "document",
+      "sample": true,
+      "body": [
+        {
+          "type": "p",
+          "text": "Most commercial contracts are reasonably well drafted in their main commercial terms — price, scope, delivery. Where disputes actually originate is usually further down the document, in clauses that felt routine at signing and only matter once something has gone wrong."
+        },
+        {
+          "type": "h3",
+          "text": "1. Termination"
+        },
+        {
+          "type": "p",
+          "text": "Pay attention to what triggers termination, how much notice is required, and what happens to obligations that survive after the contract ends — payment for work already done, confidentiality, or non-compete restrictions. A termination clause that is vague about notice periods is one of the most common sources of dispute we see."
+        },
+        {
+          "type": "h3",
+          "text": "2. Indemnity"
+        },
+        {
+          "type": "p",
+          "text": "Indemnity clauses shift financial risk between the parties, sometimes far beyond what either side intended. It is worth checking whether the indemnity is mutual or one-sided, what specific losses it covers, and whether it is capped or effectively unlimited."
+        },
+        {
+          "type": "h3",
+          "text": "3. Limitation of liability"
+        },
+        {
+          "type": "p",
+          "text": "This clause and the indemnity clause interact, and they are sometimes drafted by different people without checking they line up. A liability cap that contradicts an uncapped indemnity elsewhere in the same document creates real ambiguity about who actually bears the risk."
+        },
+        {
+          "type": "h3",
+          "text": "4. Governing law and dispute resolution"
+        },
+        {
+          "type": "p",
+          "text": "Where a dispute would be heard, and under which law, matters more than it seems at signing — particularly in cross-border arrangements. Confirm this clause reflects where you would realistically want to enforce your rights."
+        },
+        {
+          "type": "h3",
+          "text": "5. Variation and entire agreement"
+        },
+        {
+          "type": "p",
+          "text": "An entire agreement clause can mean that promises made during negotiation but not written into the final contract carry no legal weight. If something discussed verbally matters to you, it needs to be in the document."
+        },
+        {
+          "type": "p",
+          "text": "None of these clauses need to be alarming on their own. The value of a proper review is in seeing how they interact with each other and with the rest of the agreement, rather than reading each one in isolation."
+        }
+      ]
+    },
+    {
+      "slug": "insights-trademark-registration-basics",
+      "title": "When to register a trademark, and why timing matters",
+      "category": "Intellectual Property",
+      "date": "2025-08-05",
+      "dateDisplay": "5 August 2025",
+      "excerpt": "Nigeria operates a first-to-file system, which changes how early a business should act.",
+      "coverIcon": "search",
+      "sample": true,
+      "body": [
+        {
+          "type": "p",
+          "text": "A question we hear often is whether a business needs to register a trademark before it has fully launched, or whether it is safe to wait until the brand has proven itself. In Nigeria, waiting carries more risk than most business owners expect."
+        },
+        {
+          "type": "h3",
+          "text": "Why first-to-file matters"
+        },
+        {
+          "type": "p",
+          "text": "Nigeria operates a first-to-file trademark system, meaning rights generally belong to whoever files first, not necessarily whoever used the mark first in commerce. In practice, this means a business that has been trading under a name for years, but never registered it, can find that someone else has filed for the same or a similar mark — and now holds the stronger legal position."
+        },
+        {
+          "type": "h3",
+          "text": "What the registration process involves"
+        },
+        {
+          "type": "p",
+          "text": "The process starts with a search to confirm the mark is available and not confusingly similar to an existing registration, followed by filing the application with the Trademarks Registry, publication for opposition, and, assuming no objection is raised, registration itself. The full process typically takes well over a year, which is itself a reason to start earlier rather than later."
+        },
+        {
+          "type": "h3",
+          "text": "What we recommend"
+        },
+        {
+          "type": "p",
+          "text": "For a business preparing to launch a new name, logo, or product line, we recommend clearing and filing the trademark before the brand is publicly used, not after. For an established business that has been trading under an unregistered mark, the priority is to file as soon as possible and to be aware that a search may reveal a conflicting registration that needs to be addressed."
+        },
+        {
+          "type": "p",
+          "text": "Registration also matters beyond disputes — a registered trademark is an asset that can be licensed, used as security, or valued as part of the business, none of which is straightforward with an unregistered mark."
+        }
+      ]
+    },
+    {
+      "slug": "insights-employment-contract-essentials",
+      "title": "What a compliant employment contract actually needs to say",
+      "category": "Contract Law",
+      "date": "2025-06-21",
+      "dateDisplay": "21 June 2025",
+      "excerpt": "The statutory minimums Nigerian employers are required to put in writing.",
+      "coverIcon": "document",
+      "sample": true,
+      "body": [
+        {
+          "type": "p",
+          "text": "A surprising number of employment relationships in Nigeria still run on an offer letter, a handshake, and little else. This creates avoidable risk for the employer as much as the employee — disputes over notice periods, termination, and entitlements are far harder to resolve without clear written terms to point to."
+        },
+        {
+          "type": "h3",
+          "text": "The statutory minimum"
+        },
+        {
+          "type": "p",
+          "text": "Under the Labour Act, an employer is required to provide a written statement of the particulars of employment within a set period of the employee starting work. At minimum, this should cover the nature of the employment, remuneration and how it is calculated, hours of work, leave entitlements, and the notice required to terminate the contract on either side."
+        },
+        {
+          "type": "h3",
+          "text": "Terms worth going beyond the minimum"
+        },
+        {
+          "type": "p",
+          "text": "Beyond the statutory floor, a well-drafted contract should also address probation terms, confidentiality obligations, any restrictions that apply after employment ends, and how disciplinary and grievance matters will be handled. For more senior or client-facing roles, non-solicitation and confidentiality terms deserve particular care — vague or unenforceable drafting here tends only to become apparent once it is tested."
+        },
+        {
+          "type": "h3",
+          "text": "Termination clauses"
+        },
+        {
+          "type": "p",
+          "text": "Termination is where poorly drafted contracts cause the most difficulty in practice. The contract should be clear on notice periods, what constitutes grounds for summary dismissal, and what is owed to the employee on exit. Ambiguity here does not favour either side — it simply increases the likelihood of a dispute."
+        },
+        {
+          "type": "h3",
+          "text": "Our approach"
+        },
+        {
+          "type": "p",
+          "text": "We work with employers to put contracts in place that meet statutory requirements and hold up in practice, and we review existing templates for businesses that have grown past the point where an informal arrangement is workable."
+        }
+      ]
+    },
+    {
+      "slug": "insights-arbitration-vs-litigation",
+      "title": "Arbitration or litigation: how we help clients decide",
+      "category": "Commercial Litigation",
+      "date": "2025-04-30",
+      "dateDisplay": "30 April 2025",
+      "excerpt": "Cost, confidentiality, and enforceability all factor into the choice of forum.",
+      "coverIcon": "scales",
+      "sample": true,
+      "body": [
+        {
+          "type": "p",
+          "text": "When a commercial dispute arises, one of the earliest decisions — sometimes already made for the client by a clause in the underlying contract — is whether the matter will be resolved through the courts or through arbitration. Where there is still a choice to be made, the right answer depends on the specifics of the dispute more than on any general preference for one forum over the other."
+        },
+        {
+          "type": "h3",
+          "text": "Confidentiality"
+        },
+        {
+          "type": "p",
+          "text": "Court proceedings in Nigeria are, as a rule, public. Arbitration proceedings are private, and the outcome does not automatically become a matter of public record. For disputes involving sensitive commercial information, or parties who want to preserve an ongoing business relationship, this difference alone often decides the question."
+        },
+        {
+          "type": "h3",
+          "text": "Cost and timeline"
+        },
+        {
+          "type": "p",
+          "text": "Arbitration is sometimes assumed to be cheaper and faster than litigation. In practice this depends heavily on the complexity of the dispute and the arbitrators' fees, which the parties bear directly, unlike judicial time. For a straightforward, well-defined dispute, arbitration can be quicker. For a dispute with multiple parties or complicated procedural questions, litigation's more settled procedural rules can sometimes move matters along more predictably."
+        },
+        {
+          "type": "h3",
+          "text": "Enforceability"
+        },
+        {
+          "type": "p",
+          "text": "Where a counterparty's assets are outside Nigeria, an arbitral award is often easier to enforce internationally than a domestic court judgment, given Nigeria's status as a party to the New York Convention. This is frequently a deciding factor in cross-border commercial contracts."
+        },
+        {
+          "type": "h3",
+          "text": "How we advise clients"
+        },
+        {
+          "type": "p",
+          "text": "Where the underlying contract already contains an arbitration clause, our focus shifts to preparing the strongest possible case within that forum. Where there is a genuine choice, we walk clients through the confidentiality, cost, timeline, and enforceability trade-offs specific to their dispute, rather than defaulting to one forum as a matter of habit."
+        }
+      ]
+    }
+  ]
+}
