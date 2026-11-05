@@ -49,7 +49,7 @@ The header, footer, mobile nav, and per-practice-area page structure repeat acro
 - **Social links**: Facebook/X/LinkedIn/Instagram icons in the footer link to `#` pending real profile URLs.
 - **Map**: `contact.html` embeds a generic Google Maps search for "Badagry, Lagos State" — replace with an embed pinned to the exact office address once you have the map link from Google Maps.
 - **Contact form backend**: `js/forms.js` handles validation and success/error UI, but does not send email. `submitToBackend()` in that file is where you wire up a real endpoint (PHP script, Formspree, etc).
-- **Canonical URLs**: `https://www.masalawuandco.com` is a placeholder domain used in `<link rel="canonical">` and Open Graph tags across every page. Update `SITE_URL_PLACEHOLDER` in `build.py` (or find-and-replace across the HTML files) once the real domain is live.
+- **Canonical URLs**: every page's `<link rel="canonical">`, Open Graph tags and `sitemap.xml` currently point at `https://quantumfixithub.github.io/ma-salawu-website`. When the firm's own domain goes live, find-and-replace that address with the new one across all `.html` files and `sitemap.xml`.
 - **Privacy Policy / Terms**: both pages are structurally complete but contain placeholder legal text. Have the firm review and finalize before publishing.
 
 ## External dependencies
@@ -63,3 +63,8 @@ The header, footer, mobile nav, and per-practice-area page structure repeat acro
 - Rewrote copy for grammar and consistency ("Corperate", "Oraganizations", "Africa's" used as a plural, etc.) without changing the underlying facts.
 - Removed the "Banking & Finance" service that appeared in the footer's Quick Links but nowhere else on the original site, since no content backed it up. Add it as an eighth practice area (with real content) if the firm wants it included.
 - Practice area anchor links (`href="#Practice Areas"`, `href="#Attorneys"`, etc.) are now real page links.
+
+
+## Important: build.py is out of date
+
+`build.py` was used once to create the first version of the pages. The HTML files have since been edited by hand (consultation page, CMS attributes, admin editor, lead forms), so **do not run `build.py` again** — it would overwrite those changes. Edit the HTML files directly.

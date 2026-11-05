@@ -4,7 +4,7 @@ import os
 ROOT = os.path.dirname(os.path.abspath(__file__))
 
 SITE_NAME = "M.A SALAWU & CO"
-SITE_URL_PLACEHOLDER = "https://www.masalawuandco.com"  # TODO: replace with live domain
+SITE_URL_PLACEHOLDER = "https://quantumfixithub.github.io/ma-salawu-website"  # change to the real domain when it goes live
 PHONE_1 = "+234 802 733 0095"
 PHONE_1_TEL = "+2348027330095"
 PHONE_2 = "+234 709 687 8606"  # TODO: confirm final digit — source listed "70968786064" (11 digits, one too many for a Nigerian number). Flagging for firm to verify.
